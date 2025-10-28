@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Ruhani Mehta 👋  
 
-<!--
-**ruhani452/ruhani452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **3rd Year Computer Science Engineering Student** at Chandigarh University  
+💻 Passionate about **C++, Java, and Data Structures & Algorithms**  
+🚀 Building projects in **Web Development & Machine Learning**  
+🌱 Actively practicing on **LeetCode** and participating in **Hackathons**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+- **Languages:** C, C++, Java  
+- **Web:** HTML, CSS  
+- **Database:** MySQL  
+- **Tools & IDEs:** Visual Studio Code, NetBeans, GitHub  
+
+---
+
+### 🧩 Projects
+- 🏦 [Bank Management System](#) – Java, MySQL, Apache Server Pages  
+- 🚖 [Online Cab Booking System](#) – C++ (OOP Concepts)  
+- 💊 [Smart Healthcare Wearable Devices](#) – AR/VR, ML (Patent Drafted Concept)
+
+---
+
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ruhanimehta019/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/Ruhani019)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ruhani452)
+
+---
+
+⭐ **Fun Fact:** I love solving logical problems and exploring new tech ideas!
