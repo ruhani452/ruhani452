@@ -15,12 +15,7 @@
 
 ---
 
-### 🧩 Projects
-- 🏦 [Bank Management System](#) – Java, MySQL, Apache Server Pages  
-- 🚖 [Online Cab Booking System](#) – C++ (OOP Concepts)  
-- 💊 [Smart Healthcare Wearable Devices](#) – AR/VR, ML (Patent Drafted Concept)
 
----
 
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ruhanimehta019/)  
