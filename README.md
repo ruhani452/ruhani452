@@ -2,7 +2,6 @@
 
 🎓 **3rd Year Computer Science Engineering Student** at Chandigarh University  
 💻 Passionate about **C++, Java, and Data Structures & Algorithms**  
-🚀 Building projects in **Web Development & Machine Learning**  
 🌱 Actively practicing on **LeetCode** and participating in **Hackathons**
 
 ---
